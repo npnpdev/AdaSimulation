@@ -1,0 +1,26 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\PC\Desktop\adaPROJEKT2\ADA_Project\projektada.gpr
+20241020194330 30151de1b97fec267c62deb865fe9136
+[BOUND OBJECT FILES]
+C:\Users\PC\Desktop\adaPROJEKT2\ADA_Project\obj\global_types.o
+C:\Users\PC\Desktop\adaPROJEKT2\ADA_Project\obj\buffer.o
+C:\Users\PC\Desktop\adaPROJEKT2\ADA_Project\obj\consumer.o
+C:\Users\PC\Desktop\adaPROJEKT2\ADA_Project\obj\producer.o
+C:\Users\PC\Desktop\adaPROJEKT2\ADA_Project\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\PC\Desktop\adaPROJEKT2\ADA_Project\obj\
+-LC:\Users\PC\Desktop\adaPROJEKT2\ADA_Project\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
